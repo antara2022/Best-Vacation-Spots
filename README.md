@@ -1,4 +1,4 @@
-# python-api-challenge
+# Perfect-Vacation-Spots
 
 During this project, I used concepts that I have learned about Python requests, APIs and JSON traversals to complete two challenges, WeatherPy and VacationPy to find out what the weather is like as we approach the equator. For WeatherPy, I created a Python script to visualize the weather of over 500 cities of varying distance from the equator. Using the Python library Citipy, the OpenWeatherMap API and problem-solving skills, I created a representative model of weather across cities. For VacationPy, I used my weather data skills to plan future vacations. I used Jupyter gmaps and the Google Places API to narrow down the cities found in part 1 based on ideal weather conditions for a vacation. I then created a heat map that also displays the hotel closest to these ideal vacation spots.
 
