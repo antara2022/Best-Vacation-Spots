@@ -114,4 +114,4 @@ During this project, I used concepts that I have learned about Python requests, 
 
 ---------------------------------------------------
 
-<b>Contact:</b> c.antara12@gmail.com
+<b>Contact:</b> antara.choudhury3000@gmail.com
